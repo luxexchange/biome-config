@@ -1,6 +1,7 @@
 {
   "name": "@luxfi/biome-config",
   "version": "1.0.8",
+  "license": "BSD-3-Clause",
   "private": false,
   "scripts": {
     "prepare": "node ./scripts/generate.js || true"
